@@ -68,7 +68,7 @@ Create a comparison table and visualization
 
 Select and save the best-performing model
 
-esults
+Results
 
 All models were compared using performance metrics, and the best-performing model was selected based on F1-score and overall generalization ability.
 
